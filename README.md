@@ -15,7 +15,7 @@
 ```yaml
 player:    GRIPHOX
 class:     Gamer · AI-assisted builder
-level:     Beginner, leveling up every day 📈
+level:     Leveling up every day 📈 (2 projects shipped)
 main_quest: Build small, useful tools with the help of AI
 side_quests:
   - Discord tools & bots 🤖
@@ -33,7 +33,7 @@ status:    🟢 online, probably in a match
 </tr>
 <tr>
 <td>🛠️ <b>Building</b></td>
-<td>Small tools with AI, one step at a time</td>
+<td><a href="https://github.com/GRIPHOX/SyncWave">SyncWave</a>: music from my PC straight into Discord voice 🎧</td>
 </tr>
 <tr>
 <td>💭 <b>Mood</b></td>
@@ -43,27 +43,65 @@ status:    🟢 online, probably in a match
 
 ### 🕹️ Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/GRIPHOX/SyncWave"><img src="https://raw.githubusercontent.com/GRIPHOX/SyncWave/main/build/icon.png" width="42" align="left" alt="SyncWave" /></a>
+
+**[SyncWave](https://github.com/GRIPHOX/SyncWave)** <sup>⭐ new</sup><br/>
+<sub>Share your PC or a single app's audio into a Discord voice channel through your own bot.</sub>
+
+<img src="https://img.shields.io/badge/Electron-1e1e24?style=flat-square&logo=electron&logoColor=9FEAF9" />
+<img src="https://img.shields.io/badge/TypeScript-1e1e24?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/C%2B%2B-1e1e24?style=flat-square&logo=cplusplus&logoColor=659AD2" />
+<img src="https://img.shields.io/github/v/release/GRIPHOX/SyncWave?include_prereleases&style=flat-square&color=7c6cf6&label=" />
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/GRIPHOX/FakeGameStatus"><img src="https://img.shields.io/badge/%F0%9F%8E%AE-5865F2?style=for-the-badge" height="42" align="left" alt="Fake Game Status" /></a>
+
+**[Fake Game Status](https://github.com/GRIPHOX/FakeGameStatus)**<br/>
+<sub>Show any game as your Discord activity. Search 10k+ games, auto-rotate, no token needed.</sub>
+
+<img src="https://img.shields.io/badge/Python-1e1e24?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Tkinter-1e1e24?style=flat-square" />
+<img src="https://img.shields.io/github/v/release/GRIPHOX/FakeGameStatus?style=flat-square&color=5865F2&label=" />
+
+</td>
+</tr>
+</table>
+
+### 🧰 Skills & tools
+
 <div align="center">
 
-<a href="https://github.com/GRIPHOX/FakeGameStatus">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Fake%20Game%20Status-Show%20any%20game%20on%20Discord-5865F2?style=for-the-badge" alt="Fake Game Status" />
-</a>
-
-<sub>Make Discord think you're playing any game. Search 10k+ games, auto-rotate, no token needed.</sub>
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,electron,nodejs,cpp&theme=dark" alt="Languages and frameworks" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,discord,windows,vscode&theme=dark" alt="Tools" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Built%20with-Claude-1e1e24?style=for-the-badge&logo=claude&logoColor=D97757" />
 
 </div>
 
-### 🧰 Inventory
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-1e1e24?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Claude-1e1e24?style=for-the-badge&logo=claude&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Git-1e1e24?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Windows-1e1e24?style=for-the-badge&logo=windows&logoColor=0078D6" />
-<img src="https://img.shields.io/badge/Discord-1e1e24?style=for-the-badge&logo=discord&logoColor=5865F2" />
-
-</div>
+<table>
+<tr>
+<td>🎧 <b>Audio</b></td><td>WASAPI loopback capture, Opus encoding, real-time streaming</td>
+</tr>
+<tr>
+<td>🤖 <b>Discord</b></td><td>Bots with discord.js & voice, Rich Presence / game detection</td>
+</tr>
+<tr>
+<td>🖥️ <b>Desktop apps</b></td><td>Electron + React, Tkinter, Windows installers (NSIS, PyInstaller)</td>
+</tr>
+<tr>
+<td>🔐 <b>Security</b></td><td>Encrypted secrets (DPAPI), sandboxed UIs, validated IPC</td>
+</tr>
+<tr>
+<td>🚀 <b>Shipping</b></td><td>Git, GitHub Releases, GitHub Actions, writing READMEs people actually read</td>
+</tr>
+</table>
 
 ### 🤝 Find me
 
