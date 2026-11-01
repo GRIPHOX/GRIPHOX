@@ -1,47 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:2b2b33,100:5a5a66&height=230&section=header&text=GRIPHOX&fontSize=72&fontColor=f2f2f7&animation=twinkling&fontAlignY=38&desc=%F0%9F%91%91%20gamer%20%C2%B7%20builder%20%C2%B7%20still%20learning%20%F0%9F%91%91&descSize=18&descAlignY=60" width="100%" alt="GRIPHOX" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:2b2b33,100:5a5a66&height=230&section=header&text=GRIPHOX&fontSize=72&fontColor=f2f2f7&animation=twinkling&fontAlignY=38&desc=Software%20Developer&descSize=20&descAlignY=60" width="100%" alt="GRIPHOX" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1300&color=C9C7FF&center=true&vCenter=true&width=620&lines=%F0%9F%8E%AE+Gamer+at+heart;%F0%9F%A4%96+Building+small+tools+with+AI;%F0%9F%A7%A9+Learning+one+project+at+a+time;%F0%9F%9A%80+Lost+in+space%2C+loading+next+level..." alt="typing" />
-
-💕 👑 🙏 👑 💕
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1300&color=C9C7FF&center=true&vCenter=true&width=620&lines=%F0%9F%A4%96+Discord+tools+%26+bots;%F0%9F%8C%90+Web+apps;%F0%9F%93%B1+Android+apps;%F0%9F%96%A5%EF%B8%8F+Windows+%26+macOS+apps" alt="Discord tools & bots · Web · Android · Windows & macOS" />
 
 </div>
 
 ---
 
-### 🧑‍🚀 Player profile
+### 🧑‍💻 About
 
 ```yaml
-player:    GRIPHOX
-class:     Gamer · AI-assisted builder
-level:     Leveling up every day 📈 (2 projects shipped)
-main_quest: Build small, useful tools with the help of AI
-side_quests:
-  - Discord tools & bots 🤖
-  - Making my games look cooler 🎮
-  - Learning something new from every project 📚
-status:    🟢 online, probably in a match
+name:  GRIPHOX
+role:  Software developer
+build:
+  - Discord tools & bots
+  - Web apps
+  - Android apps
+  - Windows & macOS desktop apps
 ```
 
-### 🎮 Currently
-
-<table>
-<tr>
-<td>🎯 <b>Playing</b></td>
-<td>Rainbow Six Siege & whatever my friends are on</td>
-</tr>
-<tr>
-<td>🛠️ <b>Building</b></td>
-<td><a href="https://github.com/GRIPHOX/SyncWave">SyncWave</a>: music from my PC straight into Discord voice 🎧</td>
-</tr>
-<tr>
-<td>💭 <b>Mood</b></td>
-<td>Chill. Curious. Ready for the next level.</td>
-</tr>
-</table>
-
-### 🕹️ Projects
+### 🛠️ Projects
 
 <table>
 <tr>
@@ -60,10 +39,10 @@ status:    🟢 online, probably in a match
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GRIPHOX/FakeGameStatus"><img src="https://img.shields.io/badge/%F0%9F%8E%AE-5865F2?style=for-the-badge" height="42" align="left" alt="Fake Game Status" /></a>
+<a href="https://github.com/GRIPHOX/FakeGameStatus"><img src="https://img.shields.io/badge/%F0%9F%A4%96-5865F2?style=for-the-badge" height="42" align="left" alt="Fake Game Status" /></a>
 
 **[Fake Game Status](https://github.com/GRIPHOX/FakeGameStatus)**<br/>
-<sub>Show any game as your Discord activity. Search 10k+ games, auto-rotate, no token needed.</sub>
+<sub>A Discord Rich Presence tool: set any activity on your profile. Search 10k+ entries, auto-rotate, no token needed.</sub>
 
 <img src="https://img.shields.io/badge/Python-1e1e24?style=flat-square&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/Tkinter-1e1e24?style=flat-square" />
@@ -73,42 +52,45 @@ status:    🟢 online, probably in a match
 </tr>
 </table>
 
-### 🧰 Skills & tools
+### 🧰 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,electron,nodejs,cpp&theme=dark" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nodejs,electron,cpp&theme=dark" alt="Languages and frameworks" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,discord,windows,vscode&theme=dark" alt="Tools" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Built%20with-Claude-1e1e24?style=for-the-badge&logo=claude&logoColor=D97757" />
+<img src="https://skillicons.dev/icons?i=discord,androidstudio,windows,apple,git,github,githubactions,vscode&theme=dark" alt="Platforms and tools" />
 
 </div>
 
 <table>
 <tr>
+<td>🤖 <b>Discord</b></td><td>Bots with discord.js & voice, Rich Presence integrations</td>
+</tr>
+<tr>
+<td>🌐 <b>Web</b></td><td>Web apps and sites with React, TypeScript and Node.js</td>
+</tr>
+<tr>
+<td>📱 <b>Android</b></td><td>Android apps</td>
+</tr>
+<tr>
+<td>🖥️ <b>Desktop</b></td><td>Windows & macOS apps: Electron + React, Tkinter, native C++, installers (NSIS, PyInstaller)</td>
+</tr>
+<tr>
 <td>🎧 <b>Audio</b></td><td>WASAPI loopback capture, Opus encoding, real-time streaming</td>
-</tr>
-<tr>
-<td>🤖 <b>Discord</b></td><td>Bots with discord.js & voice, Rich Presence / game detection</td>
-</tr>
-<tr>
-<td>🖥️ <b>Desktop apps</b></td><td>Electron + React, Tkinter, Windows installers (NSIS, PyInstaller)</td>
 </tr>
 <tr>
 <td>🔐 <b>Security</b></td><td>Encrypted secrets (DPAPI), sandboxed UIs, validated IPC</td>
 </tr>
 <tr>
-<td>🚀 <b>Shipping</b></td><td>Git, GitHub Releases, GitHub Actions, writing READMEs people actually read</td>
+<td>🚀 <b>Shipping</b></td><td>Git, GitHub Releases, GitHub Actions, clear documentation</td>
 </tr>
 </table>
 
-### 🤝 Find me
+### 🤝 Contact
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Discord-griphox__7-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Steam-PHOX__SHADOW-171a21?style=for-the-badge&logo=steam&logoColor=white" />
 
 </div>
 
@@ -116,16 +98,16 @@ status:    🟢 online, probably in a match
 
 <div align="center">
 
-### 🐍 My contribution map, eaten one commit at a time
+### Contribution activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GRIPHOX/GRIPHOX/output/snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/GRIPHOX/GRIPHOX/output/snake.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/GRIPHOX/GRIPHOX/output/snake.svg" />
 </picture>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GRIPHOX&label=Players%20visited&color=5a5a66&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=GRIPHOX&label=Profile%20views&color=5a5a66&style=for-the-badge" alt="profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a5a66,50:2b2b33,100:0d0d0f&height=110&section=footer" width="100%" />
 
